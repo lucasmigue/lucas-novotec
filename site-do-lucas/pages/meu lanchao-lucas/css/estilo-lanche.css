@@ -1,0 +1,83 @@
+.pao{
+    background-color:darkgoldenrod;
+    text-align:center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin:0;
+}
+.maionese{
+     background-color:burlywood;
+    text-align:center;
+    padding:top 8px;
+    padding:bottom 8px;
+    border-radius: 16px;
+    margin:0;
+}
+.ketchup{
+    background-color:crimson;
+    text-align:center;
+    padding: top 8px;
+    padding: bottom 8px;
+    border-radius: 16px;
+    margin:0;
+}
+.tomate{
+    background-color:brown;
+    text-align:center;
+    padding: top 8px;
+    padding: bottom 8px;
+    border-radius: 16px;
+    margin:0;
+}
+.ovo{
+    background-color:darkgray;
+    text-align:center;
+    padding: top 8px;
+    padding: bottom 8px;
+    border-radius: 16px;
+    margin:0;
+}
+.hanburgue{ 
+    background-color:saddlebrown;
+    text-align:center;
+    padding: top 8px;
+    padding: bottom 8px;
+    border-radius: 16px;
+    margin:0;
+}
+.becon{
+    background-color:sienna;
+    text-align:center;
+    padding: top 8px;
+    padding: bottom 8px;
+    border-radius: 16px;
+    margin:0;
+}
+.molho-de-alho{
+    background-color:bisque;
+    text-align:center;
+    padding: top 8px;
+    padding: bottom 8px;
+    border-radius: 16px;
+    margin:0;
+}
+.batata-palha{
+    background-color:yellow;
+    text-align:center;
+    padding: top 8px;
+    padding: bottom 8px;
+    border-radius: 16px;
+    margin:0;
+}
+.pao{
+    background-color:darkgoldenrod;
+    text-align:center;
+    padding: top 8px;
+    padding: bottom 8px;
+    border-radius: 50px;
+    margin:0;
+}
